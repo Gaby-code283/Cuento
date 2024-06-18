@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
     <head lang="es-Es">
-        <title>Practica 2 Etiquetas básicas</title>
         <meta charset="utf-8">
     </head>
     <body>
